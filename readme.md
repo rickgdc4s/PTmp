@@ -1,7 +1,22 @@
-# P1: System Setup/Portfolio 09-19-14
+## Project P1: System Setup/Portfolio ##
 
-1. Set up a portfolio to present all the projects you'll complete in this course.
-2. Ensure your Git and server workflow is in working order.
-3. Refresh your HTML/CSS skills if needed.
+### Live URL
+[http://p1.rickcscie15.me](http://p1.rickcscie15.me)
+
+### Description ###
+
+Project P1 is a single page website using basic HTML and CSS containing information about myself, including a photo, and placeholder links for future Projects 2, 3 and 4.
+
+### Demo ###
+
+A demo is not required for Project 1.
+
+### Details for Teaching Team ###
+
+Project 1 contains the following files:
+
+- index.php
+- readme.md
+- Rick_HuntingtonRavine.JPG
 
 
